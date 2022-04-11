@@ -1,7 +1,9 @@
 
 # Olá, me chamo Victor
 
-Bem vindo ao meu perfil no Github &#128075;
+## Bem vindo ao meu perfil no Github &#128075;
+<br>
+<img src="IMG_1597.JPG" width="210px" height="300px">
 
 Eu atualmente estudo HTML, CSS e JavaScript e estou me preparando para encontrar a minha primeira oportunidade como Front-end
 Estou concluindo a formação em HTML e CSS na [Alura](https://www.alura.com.br/formacao-html-e-css) com conclusão prevista para ainda este mês de Abril de 2022
