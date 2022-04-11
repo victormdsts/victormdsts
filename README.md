@@ -14,4 +14,4 @@ Moro em São Paulo/ Brasil
 
 ### Como entrar em contato comigo':'
 
-[![Twitter](https://img.shields.io/twitter/url?label=%40victormdsts&style=social&url=https%3A%2F%2Ftwitter.com%2Fvictormdsts)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fvictormdsts)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Ftwitter.com%2Fvictormdsts)
